@@ -49,11 +49,11 @@ Amazon Clone/
 
 ## 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot (453)" src="https://github.com/user-attachments/assets/1de92a46-9e57-4dfc-bf1e-4eec464e0cea" />
+<img width="1920" height="1080" alt="Screenshot (451)" src="https://github.com/user-attachments/assets/99328a9b-f337-4868-be2c-80f1e701cb90" />
 <br><br>
 <img width="1920" height="1080" alt="Screenshot (452)" src="https://github.com/user-attachments/assets/a75be718-fe46-4f8f-a827-0ec3c427c894" />
 <br><br>
-<img width="1920" height="1080" alt="Screenshot (451)" src="https://github.com/user-attachments/assets/99328a9b-f337-4868-be2c-80f1e701cb90" />
+<img width="1920" height="1080" alt="Screenshot (453)" src="https://github.com/user-attachments/assets/1de92a46-9e57-4dfc-bf1e-4eec464e0cea" />
 
 
 ---
